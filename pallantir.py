@@ -1,6 +1,6 @@
 # ##############################################################################
 #
-# PALLANTIR - Programa de manipulación para la esfera interactiva Pallantir
+# PALLANTIR - Programa de manipulacion para la esfera interactiva Pallantir
 #   Pallantir es un proyecto de LINTI - UNLP para realizar una esfera digital
 #    interactiva.
 #
